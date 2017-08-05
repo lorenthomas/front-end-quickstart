@@ -1,0 +1,33 @@
+/*cite.css*/
+ header ,footer{ 
+            background-color: lavender;
+            border: 4px solid plum;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            color: indigo;
+        }
+
+        footer{
+            padding: 10px
+        
+        
+         
+
+        
+    
+
+        }
+        section{
+            background-color: paleturquoise;
+            border: 4px solid teal;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            color: indigo
+        }
+
+        #main {
+            border: 4px solid #87cefa;
+            color: #696969; 
+            
+        }
+    
